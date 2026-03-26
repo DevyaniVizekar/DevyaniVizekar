@@ -1,5 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Devyani
 
+Frontend Developer (Beginner) focused on building clean and responsive user interfaces using HTML, CSS, and JavaScript.
+
+---
+
+## 🌱 I’m currently learning
+- Frontend Development (HTML, CSS, JavaScript)
+- Improving UI design and responsiveness
+
+---
+
+## 💻 Projects
+- Netflix Clone  
+- Amazon Clone  
+- Currency Converter  
+- Rock Paper Scissors Game  
+
+---
+
+## 🛠️ Skills
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevyaniVizekar&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevyaniVizekar&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DevyaniVizekar)
+
+---
+
+## 🎯 Goal
+To become a skilled frontend developer and build real-world web applications.
 <!--
 **DevyaniVizekar/DevyaniVizekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -26,11 +26,11 @@ Frontend Developer (Beginner) focused on building clean and responsive user inte
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevyaniVizekar&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevyaniVizekar&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevyaniVizekar&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevyaniVizekar&layout=compact&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DevyaniVizekar)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DevyaniVizekar&hide_border=true)
 
 ---
 

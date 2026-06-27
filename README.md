@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Devyani Vizekar</h1>
 
+
 <h3 align="center">
-Frontend Developer • React Enthusiast • Building Modern Web Experiences
+Frontend Developer | React Developer | Crafting Responsive & Scalable Web Applications
 </h3>
 
 <p align="center">
-Passionate about creating responsive, user-friendly and visually appealing web applications using modern frontend technologies.
-Currently expanding my expertise in React ecosystem, state management, and full-stack development.
+Passionate about building modern, high-performance web applications with React and JavaScript. Focused on creating intuitive user experiences, writing clean and maintainable code, and continuously learning industry best practices.
 </p>
 
 ---

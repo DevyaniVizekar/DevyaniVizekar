@@ -128,8 +128,6 @@ I enjoy transforming ideas into interactive web experiences and believe every pr
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevyaniVizekar&theme=tokyonight"/>
 
----
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevyaniVizekar&layout=compact&theme=tokyonight"/>
 
 </p>

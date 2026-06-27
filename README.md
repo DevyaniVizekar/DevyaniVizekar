@@ -1,51 +1,139 @@
-# Hi 👋, I'm Devyani
+<h1 align="center">Hi 👋, I'm Devyani Vizekar</h1>
 
-Frontend Developer (Beginner) focused on building clean and responsive user interfaces using HTML, CSS, and JavaScript.
+<h3 align="center">
+Frontend Developer • React Enthusiast • Building Modern Web Experiences
+</h3>
 
----
-
-## 🌱 I’m currently learning
-- Frontend Development (HTML, CSS, JavaScript)
-- Improving UI design and responsiveness
-
----
-
-## 💻 Projects
-- Netflix Clone  
-- Amazon Clone  
-- Currency Converter  
-- Rock Paper Scissors Game  
+<p align="center">
+Passionate about creating responsive, user-friendly and visually appealing web applications using modern frontend technologies.
+Currently expanding my expertise in React ecosystem, state management, and full-stack development.
+</p>
 
 ---
 
-## 🛠️ Skills
-- HTML  
-- CSS  
-- JavaScript  
+## 🚀 About Me
+
+- 💻 Frontend Developer passionate about crafting clean UI & seamless UX
+- 🌱 Currently learning **React, Redux Toolkit, Bootstrap, Vite, Git & GitHub**
+- 🎯 Goal: Build production-ready web applications and contribute to impactful products
+- ⚡ Interested in Frontend Development, UI Engineering & Modern JavaScript
+- 📚 Continuously improving through real-world projects
 
 ---
+
+## 🛠 Tech Stack
+
+### Languages
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+### Frontend
+
+- React
+- Redux Toolkit
+- Bootstrap
+- Responsive Design
+- CSS Modules
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Vite
+- npm
+
+### Currently Exploring
+
+- REST APIs
+- React Router
+- Firebase
+- Shopify Development
+- Tailwind CSS
+- Node.js
+- Express.js
+
+---
+
+## 💼 Featured Projects
+
+### 🎬 Netflix Clone
+
+Responsive Netflix landing page built using HTML and CSS with modern UI principles.
+
+---
+
+### 🛒 Amazon Clone
+
+Amazon-inspired homepage focused on responsive layouts and clean component structure.
+
+---
+
+### 🧮 React Calculator
+
+A fully functional calculator built with React using reusable components and state management.
+
+**Features**
+
+- Basic arithmetic operations
+- Responsive UI
+- Component-based architecture
+- CSS Modules
+
+---
+
+## 📈 Currently Working On
+
+- React Projects
+- Redux Toolkit
+- API Integration
+- Frontend Performance Optimization
+- Building Portfolio Projects
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled Frontend Developer building scalable, accessible and user-centric web applications while continuously learning modern technologies.
+
+---
+
+## 📫 Connect With Me
+
+📧 **vizekardevyani@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/devyani-vizekar-081b44282?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+---
+
+## ⭐ Fun Fact
+
+I enjoy transforming ideas into interactive web experiences and believe every project is an opportunity to learn something new.
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevyaniVizekar&layout=compact&hide_border=true)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DevyaniVizekar&hide_border=true)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,vite,git,github,npm,vscode,shopify" />
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DevyaniVizekar&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevyaniVizekar&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevyaniVizekar&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 🎯 Goal
 To become a skilled frontend developer and build real-world web applications.
-<!--
-**DevyaniVizekar/DevyaniVizekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

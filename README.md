@@ -135,4 +135,4 @@ I enjoy transforming ideas into interactive web experiences and believe every pr
 ---
 
 ## 🎯 Goal
-To become a skilled frontend developer and build real-world web applications.
+To build scalable, accessible, and high-performance web applications while continuously learning modern technologies and contributing to impactful software products.

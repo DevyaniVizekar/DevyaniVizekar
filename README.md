@@ -104,8 +104,7 @@ To become a skilled Frontend Developer building scalable, accessible and user-ce
 
 📧 **vizekardevyani@gmail.com**
 
-💼 LinkedIn:
-https://www.linkedin.com/in/devyani-vizekar-081b44282?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+💼 LinkedIn:[linkedin.com/in/devyani-vizekar-081b44282](https://www.linkedin.com/in/devyani-vizekar-081b44282/)
 
 ---
 

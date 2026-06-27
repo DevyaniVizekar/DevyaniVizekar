@@ -112,6 +112,8 @@ To become a skilled Frontend Developer building scalable, accessible and user-ce
 
 I enjoy transforming ideas into interactive web experiences and believe every project is an opportunity to learn something new.
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">

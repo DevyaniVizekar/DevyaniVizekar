@@ -118,7 +118,7 @@ I enjoy transforming ideas into interactive web experiences and believe every pr
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,vite,git,github,npm,vscode,shopify" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,vite,next.js,git,github,npm,vscode,shopify" />
 
 </p>
 

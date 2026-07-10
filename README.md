@@ -59,21 +59,37 @@ Passionate about building modern, high-performance web applications with React a
 
 ## 💼 Featured Projects
 
-### 🎬 Netflix Clone
+### 🛒 React E-commerce Website
+A modern e-commerce application built with React featuring reusable components, dynamic product listings, responsive layouts, and smooth navigation. Designed with scalability, clean architecture, and an intuitive user experience in mind.
 
-Responsive Netflix landing page built using HTML and CSS with modern UI principles.
+**Highlights**
+- 🛍️ Dynamic product catalog
+- ⚛️ Component-based architecture
+- 📱 Fully responsive design
+- 🚀 Optimized React state management
 
 ---
 
 ### 🛒 Amazon Clone
+A responsive Amazon-inspired homepage built with HTML and CSS, focusing on pixel-perfect UI, clean layouts, and modern responsive web design principles.
 
-Amazon-inspired homepage focused on responsive layouts and clean component structure.
+**Highlights**
+- 🎨 Pixel-perfect Amazon UI
+- 📱 Mobile-friendly responsive design
+- 🧩 Clean and reusable structure
+- 💻 Built with semantic HTML & CSS
 
 ---
 
 ### 🧮 React Calculator
+A fully functional calculator application developed with React, demonstrating efficient state management, reusable components, and responsive UI development.
 
-A fully functional calculator built with React using reusable components and state management.
+**Highlights**
+- ➕ Complete arithmetic operations
+- ⚛️ React Hooks for state management
+- ♻️ Reusable component architecture
+- 📱 Responsive across devices
+- 🎯 Clean and maintainable code
 
 **Features**
 

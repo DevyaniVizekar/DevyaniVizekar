@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-💻 Frontend Developer | React.js | Redux | JavaScript | Next.js | TypeScript
+💻 Frontend Developer |  React.js  |  Redux  |  JavaScript  |  Next.js  |  TypeScript
 </h3>
 
 <p align="center">
@@ -67,9 +67,7 @@ I enjoy turning ideas into interactive digital experiences and continuously impr
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-
-
-
+<!--
 
 ---
 
@@ -109,21 +107,81 @@ I enjoy turning ideas into interactive digital experiences and continuously impr
 - Node.js
 - Express.js
 
+-->  
+
 ---
 
 ## 💼 Featured Projects
 
-### 🛒 React E-commerce Website
-A modern e-commerce application built with React featuring reusable components, dynamic product listings, responsive layouts, and smooth navigation. Designed with scalability, clean architecture, and an intuitive user experience in mind.
 
-**Highlights**
-- 🛍️ Dynamic product catalog
-- ⚛️ Component-based architecture
-- 📱 Fully responsive design
-- 🚀 Optimized React state management
+## 💬 Lunara — Real-Time Chat Application
+
+A full-stack real-time chat application built with React.js and Firebase, featuring secure authentication, instant messaging, image sharing and responsive UI.
+
+### ✨ Highlights
+
+- 🔐 Firebase Authentication for secure user authentication
+- 💬 Real-time messaging using Cloud Firestore
+- 🖼️ Image sharing with Cloudinary
+- 🧩 Reusable React components and React Hooks
+- 🛣️ Client-side routing with React Router
+- 📱 Fully responsive user interface
+- ⚡ Real-time data synchronization
+
+### 🛠️ Tech Stack
+
+`React.js` `JavaScript` `Firebase` `Cloud Firestore` `Cloudinary` `React Router` `Vite`
 
 ---
 
+## ✈️ Wanderly AI — AI-Powered Personal Travel Assistant
+
+A full-stack AI-powered travel planning application that helps users discover destinations and generate personalized day-wise travel itineraries based on their preferences.
+
+### ✨ Highlights
+
+- 🤖 AI-powered travel recommendations using Groq and Llama 3.3
+- 🧳 Personalized day-wise itinerary generation
+- 📍 Real-world location validation
+- 🗺️ Interactive Mapbox maps
+- 🏨 Hotel recommendations with ratings and pricing
+- 💡 Explainable recommendations with "Why Visit?"
+- 🔐 Secure authentication with Clerk
+- 💾 Trip and user data management with Convex
+- 🛡️ Application security with Arcjet
+- 📱 Responsive user interface
+
+### 🧠 AI Integration
+
+Wanderly AI uses **Llama 3.3 70B through Groq** to understand travel requirements such as destination, budget, group size, travel style, activities and trip duration before generating structured travel recommendations and itineraries.
+
+### 🛠️ Tech Stack
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Shadcn UI` `Convex` `Groq` `Llama 3.3` `Mapbox` `Google Places API` `Clerk` `Arcjet`
+
+---
+
+## 🛒 React E-Commerce Website
+
+A modern responsive e-commerce application built with React.js featuring product listings, product details, category navigation, shopping cart functionality and client-side routing.
+
+### ✨ Highlights
+
+- 🛍️ Product listing and product detail pages
+- 🛒 Shopping cart functionality
+- 🗂️ Category-based product navigation
+- ⚛️ Reusable React components
+- 🧩 Organized component architecture
+- 🔄 Client-side routing
+- 📱 Responsive UI
+- 🎯 Focus on clean and user-friendly design
+
+### 🛠️ Tech Stack
+
+`React.js` `JavaScript` `HTML5` `CSS3` `React Router DOM` `Vite`
+
+---
+<!--
 ### 🛒 Amazon Clone
 A responsive Amazon-inspired homepage built with HTML and CSS, focusing on pixel-perfect UI, clean layouts, and modern responsive web design principles.
 
@@ -152,15 +210,18 @@ A fully functional calculator application developed with React, demonstrating ef
 - Component-based architecture
 - CSS Modules
 
+-->
 ---
 
-## 📈 Currently Working On
+# 🌱 Currently Learning
 
-- React Projects
-- Redux Toolkit
-- API Integration
-- Frontend Performance Optimization
-- Building Portfolio Projects
+- Advanced React.js
+- Next.js
+- TypeScript
+- REST API Integration
+- Modern Frontend Architecture
+- Full-Stack Development
+- AI-powered web applications
 
 ---
 

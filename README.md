@@ -32,18 +32,13 @@ I enjoy turning ideas into interactive digital experiences and continuously impr
 ---
 ### Languages
 
-<div align="center">
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-</div>
 
 ### Frontend
-
-<div align="center">
   
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -52,40 +47,27 @@ I enjoy turning ideas into interactive digital experiences and continuously impr
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-</div>
-
 ### Backend, APIs & Services
-
-<div align="center">
   
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Convex](https://img.shields.io/badge/Convex-000000?style=for-the-badge)
 ![Google Places](https://img.shields.io/badge/Google_Places_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 
-</div>
-
 ### AI & Security
-
-<div align="center">
-  
+ 
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
 ![Llama](https://img.shields.io/badge/Llama_3.3-0467DF?style=for-the-badge)
 ![Arcjet](https://img.shields.io/badge/Arcjet-000000?style=for-the-badge)
 
-</div>
-
 ### Tools & Development
 
-<div align="center">
-  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   
-</div>
 <!--
 
 ---

@@ -211,7 +211,6 @@ A fully functional calculator application developed with React, demonstrating ef
 - CSS Modules
 
 -->
----
 
 # 🌱 Currently Learning
 
@@ -249,7 +248,7 @@ I enjoy transforming ideas into interactive web experiences and believe every pr
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,bootstrap,vite,git,github,npm,vscode,shopify" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,vite,firebase,git,github,npm,vscode,cloudinary,mapbox,vercel" />
 
 </p>
 
